@@ -1,0 +1,6 @@
+config.py
+venv
+bot v 1-0-0.zip
+__pycache__/
+.idea/
+deleteAll_Items.py
